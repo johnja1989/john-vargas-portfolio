@@ -12,7 +12,7 @@ Portafolio web profesional que muestra mis habilidades como **Frontend Developer
 ### 🌟 **Vista Previa**
 ![Portafolio Preview](https://via.placeholder.com/800x400/667eea/ffffff?text=Tu+Portafolio+Aquí)
 
-> **🔗 Ver en vivo:** [john-vargas-portfolio.github.io](https://tu-usuario.github.io/john-vargas-portfolio)
+> **🔗 Ver en vivo:** [https://johnja1989.github.io/john-vargas-portfolio/](https://johnja1989.github.io/john-vargas-portfolio/)
 
 ---
 
@@ -186,5 +186,6 @@ Si este portafolio te parece útil o interesante:
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tu-usuario)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-jairo-vargas-gonzález-25a790237)
+
 
 </div>
