@@ -164,7 +164,7 @@ Border: rgba(255, 255, 255, 0.2)
 
 ## 📄 Licencia
 
-Este proyecto está bajo la Licencia MIT - mira el archivo [LICENSE](LICENSE) para más detalles.
+Este proyecto está bajo la Licencia MIT - mira el archivo [LICENSE.md]([LICENSE.md](https://github.com/johnja1989/john-vargas-portfolio/blob/main/LICENSE.md)) para más detalles.
 
 ---
 
@@ -186,6 +186,7 @@ Si este portafolio te parece útil o interesante:
 
 
 </div>
+
 
 
 
