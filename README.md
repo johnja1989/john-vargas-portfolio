@@ -9,9 +9,6 @@
 
 Portafolio web profesional que muestra mis habilidades como **Frontend Developer** especializado en **AWS Services**, **implementación de proyectos** y **desarrollo web moderno**.
 
-### 🌟 **Vista Previa**
-![Portafolio Preview](https://johnja1989.github.io/john-vargas-portfolio/)
-
 > 🔗 **Ver en vivo:** [https://johnja1989.github.io/john-vargas-portfolio/](https://johnja1989.github.io/john-vargas-portfolio/)
 
 ---
@@ -189,5 +186,6 @@ Si este portafolio te parece útil o interesante:
 
 
 </div>
+
 
 
