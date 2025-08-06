@@ -89,7 +89,7 @@
 
         /* Navigation */
         nav {
-            position: fixed;
+            position: relative;
             top: 0;
             width: 100%;
             background: rgba(255, 255, 255, 0.1);
@@ -109,6 +109,9 @@
             display: flex;
             justify-content: center;
             gap: 2rem;
+            margin: 0;
+            padding: 0;
+            flex-wrap: wrap;
         }
 
         nav a {
@@ -353,6 +356,9 @@
             border: 1px solid rgba(245, 87, 108, 0.3);
             transition: all 0.3s ease;
             cursor: default;
+            text-align: center;
+            min-width: fit-content;
+            white-space: nowrap;
         }
 
         .skill-tag:hover {
@@ -521,7 +527,7 @@
         }
 
         /* Responsive Design */
-        @media (max-width: 768px) {
+        @media (max-width: 375px) {
             .hero h1 {
                 font-size: 2.5rem;
             }
@@ -813,6 +819,5 @@
         document.body.style.visibility = 'hidden';
     </script>
 </body>
-
 
 </html>
